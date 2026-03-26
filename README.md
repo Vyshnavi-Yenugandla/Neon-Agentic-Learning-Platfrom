@@ -39,9 +39,15 @@ To build a smart learning system that adapts to user needs using AI agents, impr
 
 ## 📂 Project Structure
 project/
+
 │── src/
+
 │── models/
+
 │── data/
+
 │── app.py
+
 │── requirements.txt
+
 │── README.md
